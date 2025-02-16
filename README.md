@@ -1,5 +1,10 @@
 # AngularAdvancedLayout
 
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/6e25eb05-96dc-45e3-baf8-0a53c8b4c064" />
+
+<img width="147" alt="image" src="https://github.com/user-attachments/assets/8efcad27-7625-4f31-b024-f1e90d0ca9dc" />
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
 ## Development server
